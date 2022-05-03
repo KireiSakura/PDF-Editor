@@ -1,22 +1,10 @@
-<b>Assignment 4</b>
-
-<b>Name:</b> Shruti Vishrant
-
-<b>Username:</b> svishran
-
-<b>Student Number:</b> 20763176
+# PDF Editor
 
 <b>OpenJDK version:</b> "11.0.8" 2020-07-14
 
 <b>Android SDK:</b> Android 10(API 29)
 
 <b>Gradle version:</b> "6.6.1"
-
-<b>Git version:</b> "2.27.0"
-
-<b>Tool Used:</b> Android Studio Latest Version
-
-<b>System:</b> macOS 10.13.6 (MacBook Air 2017)
 
 <b>PDF Reader:</b>
 
@@ -41,14 +29,3 @@ There are 6 tools for you to use on the top-right corner, their description is a
 - You'll be able to perform undo and redo only on the actions performed in the current page on which you are on. If you want to undo or redo something on another page, you will first have to go to that page, and then click undo and redo. So, for instance you performed an action on Page 1, and then you move to Page 2 and you want to undo the action you performed on page 1, for this you will have to go back to page 1 and then click on undo, because when you are on page 2, you can undo or redo the actions performed only on page 2.
 - If you performed no action then clicking on undo will not do anything.
 - If you click on undo, but then you perform some action, then the redo button will not do anything. Redo works only when you first do undo, and then you do redo. If after undo you perform an action other than redo, then after that redo button will not do anything(since the redoStack becomes empty in this case.).
-
-<b>Image Sources:</b>
-
-- Pen Icon Image: Icon-Library.com(Personal Use)
-- Highlighter Icon Image: Flat-icons.com(Personal Use)
-- Eraser Icon Image: Flat-icons.com(Personal Use)
-- Undo Tool: iconfinder.com(Personal Use)
-- Redo Tool: iconfinder.com(Personal Use)
-- Cursor Tool: iconfinder.com(Personal Use)
-- Up Arrow Key Image: freeiconspng.com(License: Free for Personal use only)
-- Down Arrow Key Image: freeiconspng.com(License: Free for Personal use only)
